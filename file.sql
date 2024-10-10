@@ -12,3 +12,4 @@ VALUES
 (101, "karan", 65, "A", "Pune"),
 (102, "sham", 75, "B", "Mumbai"),
 (103, "ram", 85, "C", "Kolkatta");
+1
